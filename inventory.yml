@@ -1,0 +1,12 @@
+---
+all:
+  vars:
+  children:
+    posts:
+      hosts:
+        a:
+        b:
+    wansim:
+      hosts:
+        wansim:
+          
